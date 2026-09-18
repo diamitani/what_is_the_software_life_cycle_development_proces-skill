@@ -1,3 +1,9 @@
+---
+name: what-is-the-software-life-cycle-development-proces
+description: >
+  <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/> The **software development life cycle** (SDLC) is the structured path a product takes from idea to a live system you keep improving: plan, analyze, design, build, test, deploy, and mai Use this skill when working with what is the software life cycle development proces tasks or workflows.
+---
+
 <img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
 # What is the software life cycle development process
@@ -372,4 +378,3 @@ default_access_level: editor
 ```
 
 Reply **yes** to proceed or **no** to cancel.
-
